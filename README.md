@@ -1,2 +1,2 @@
 # testCLI
-Learning Command Line Interface in my local computer
+Learning git using Command Line Interface (CLI) in my computer
